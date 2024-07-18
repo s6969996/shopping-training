@@ -1,0 +1,49 @@
+.shoping_item{
+  margin: .3125rem 0;
+  margin-top: 0.3125rem;
+  margin-right: 0px;
+  margin-bottom: 0.3125rem;
+  margin-left: 0px;
+}
+
+.shoping_items{
+  margin: .3125rem 0;
+  margin-top: 0.3125rem;
+  margin-right: 100px;
+  margin-bottom: 0.3125rem;
+  margin-left: 0px;
+}
+
+.col{ 
+  display: inline-block;
+  margin-top:10px;
+  width:100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  color: #fff;
+}
+
+.colo{
+  background: red;
+}
+
+.main{
+  text-align: justify;
+}
+
+.col-bg{
+  background-color: #f5f5f5;
+}
+
+.photo_S{
+  width: 320px;
+  height: 320px;
+}
+
+.shopee-search-item-result__items {
+    margin: .5rem 0 0;
+    margin-top: 0.5rem;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
